@@ -6,6 +6,7 @@
   "description": "None",
   "dependencies": {
     "@slack/client": "file:node_modules/@slack/client",
+    "botkit": "^0.2.2",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
