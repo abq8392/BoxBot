@@ -5,6 +5,7 @@
   "author": "anon.poll.bot@gmail.com",
   "description": "None",
   "dependencies": {
+    "@slack/client": "file:node_modules/@slack/client",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
@@ -17,7 +18,9 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^4.0.0"
+    "hubot-slack": "^4.0.0",
+    "hubot-slack-vote": "0.0.5",
+    "hubot-strawpoll": "^1.0.1"
   },
   "engines": {
     "node": "0.10.x"
